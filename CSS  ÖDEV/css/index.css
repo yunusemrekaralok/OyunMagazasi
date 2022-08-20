@@ -1,0 +1,16 @@
+h1{
+    background-color: black;color: white;
+}
+a{
+    color:darkblue;
+    font-size: 24px;
+}
+
+.text-white{
+    color: white;
+}
+body{
+    background-color: black;color: white;
+    background-image:url(resimler/arkaplan.jpg);
+}
+
